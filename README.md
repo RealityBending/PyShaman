@@ -7,7 +7,7 @@
 ### Installation
 
 ```
-pip install https://github.com/RealityBending/PyShaman/zipball/master
+pip install https://github.com/RealityBending/PyShaman/zipball/main
 ```
 
 ### Contribution
